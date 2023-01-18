@@ -15,3 +15,7 @@ Probably also because of the date, as I didn't convert it to String or utilize t
 - What would make your experience with this assessment better?
 
 By resolving the error, and continue to work on the code. And if there's more time, will look into further enhancing the features and outlook of it.
+
+
+Watch Demo:\
+![giphy](https://user-images.githubusercontent.com/108328227/213278423-d0f34aef-1e62-44b0-ab99-f07acebccc54.gif)
